@@ -1,20 +1,23 @@
-# Getting Started with Create React App
+<h2>Project Screenshots:</h2>
 
-Development setup:
-git clone https://github.com/Alageshwaran04/reactproject/edit/main/README.md
+<img src="C:\Users\91638\OneDrive\Pictures\Screenshots\dummy.png" alt="project-screenshot" width="400" height="400/">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. development setup</p>
+
+```
+gitclone https://github.com/Alageshwaran04/reactproject/edit/main/README.md
+```
+
+```
 npm install
-npm start run
+```
 
-images:
-![dummy](https://github.com/Alageshwaran04/reactproject/assets/134389764/142fa605-0129-42fb-b858-15ce6079578e)
+```
+npm start
+```
 
-
-
-
-
-
-videos
-https://github.com/Alageshwaran04/reactproject/assets/134389764/ea3f889b-2e8c-4f68-af4e-e67a8e58b1c4
 
 
 

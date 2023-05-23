@@ -7,7 +7,7 @@
 <p>1. development setup</p>
 
 ```
-gitclone https://github.com/Alageshwaran04/reactproject/edit/main/README.md
+gitclone https://github.com/Alageshwaran04/reactproject
 ```
 
 ```

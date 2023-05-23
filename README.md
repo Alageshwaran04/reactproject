@@ -1,6 +1,6 @@
 <h2>Project Screenshots:</h2>
 
-<img src="C:\Users\91638\OneDrive\Pictures\Screenshots\dummy.png" alt="project-screenshot" width="400" height="400/">
+
 
 <h2>🛠️ Installation Steps:</h2>
 

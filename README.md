@@ -1,3 +1,5 @@
+<h2>project description>:</h2>
+   This is react register/login project.once you register your name,email and password your data stored in firebase authentication.you can see your data will appear on the dashboard page.
 <h2>Project Screenshots:</h2>
 
 
